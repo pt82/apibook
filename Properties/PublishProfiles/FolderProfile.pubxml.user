@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\www</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="client-app/.editorconfig">
+      <publishTime>01/03/2021 22:31:29</publishTime>
+    </File>
+    <File Include="client-app/.git/COMMIT_EDITMSG">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/config">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/description">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/HEAD">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/applypatch-msg">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/applypatch-msg.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/commit-msg">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/commit-msg.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/fsmonitor-watchman.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-applypatch">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-checkout">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-commit">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-merge">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-receive">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-rewrite">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-update">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/post-update.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-applypatch">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-applypatch.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-auto-gc">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-commit">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-commit.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-merge-commit.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-push">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-push.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-rebase">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-rebase.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-receive">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/pre-receive.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/prepare-commit-msg">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/prepare-commit-msg.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/push-to-checkout">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/sendemail-validate">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/update">
+      <publishTime>01/03/2021 23:02:46</publishTime>
+    </File>
+    <File Include="client-app/.git/hooks/update.sample">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/index">
+      <publishTime>01/10/2021 19:42:28</publishTime>
+    </File>
+    <File Include="client-app/.git/info/exclude">
+      <publishTime>01/03/2021 22:29:55</publishTime>
+    </File>
+    <File Include="client-app/.git/logs/HEAD">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/logs/refs/heads/master">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/02/0edd276851c97a7fc906be8b15445508418fa0">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/06/f654ca1d2139dcb15424eb17f150536e2d13e2">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/08/6afd21e02efe65ef5222ffdf55731323c8f069">
+      <publishTime>01/07/2021 17:16:12</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/18/78efb39eae48cd3d40158ec47d89c17d213dc5">
+      <publishTime>01/09/2021 21:28:14</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/1a/e2a2c01d726bad9775a584c23133cedab31ad3">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/2a/80177b1d9cc6a00624067b1470a52323b39f38">
+      <publishTime>01/10/2021 12:46:45</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/33/2b916928b6051df5dc7286ead3e04ee067f4ab">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/39/439048979c962a48128b2c5c4c90711282836d">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/3f/a28070de24f2055171ca2e20543881cb7fdf1c">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/40/3adbc1e527906a4aa59558cd582c20bcd1d738">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/41/235286563508e0feb4c451a34b598ef822ec21">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/4d/6bf4a5a361f2fc0e27e88b4309fdb559745ef2">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/4d/99df3369ff6b36f0fd97b5ea327ceaf0c97479">
+      <publishTime>01/10/2021 15:57:05</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/65/10c6a45035b6573151ff6196e4bdea78deb75d">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/68/c480c569381e73327c1a489d2fb6327ad21ae2">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/69/a32ece6f4f9b51158537adcf6b43b4f6a6c334">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/6c/0b6aef6b3effb7947e65741c9ca88db76ef0c6">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/70/53c49a045c91bd8b3015c1cf3d1f6da21660d8">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/72/2aa6029528aa4886f9e45e102353fa2e6ff248">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/7d/16ab4309a8b294106307ed863e9b26a5eded41">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/89/abc04b1d0b49f11950eb4963341a2ba51d3637">
+      <publishTime>01/07/2021 17:15:40</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/8b/d6c57f306571c13dab5ce8ee5dab0d3e03eeeb">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/8c/5434a055eb9b23b0704eeb229acef594e6e476">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/b0/aac63bd88cfdeacd9ec94c7973602118767c74">
+      <publishTime>01/10/2021 19:42:28</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/b4/e52cb70ac52edad11419cd02a7f16cdd391534">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/cc/64c8894ca30af9cfbbc54ad9fba1ade0cd53e1">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/d3/6779eb73ae1ab86d5cfb634e2cb785e41e5067">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/df/36fcfb72584e00488330b560ebcf34a41c64c2">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+      <publishTime>01/07/2021 23:09:53</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/e9/558405fdcc02f12d757acb308e02937a7444f1">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/f2/5345696713d1bf0ab7b359da6ec17acf417b2d">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/f3/d2503fc2a44b5053b0837ebea6e87a2d339a43">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.git/objects/f4/4ceda7f726a806f4bd0dd28574a7288e874f12">
+      <publishTime>01/05/2021 13:13:25</publishTime>
+    </File>
+    <File Include="client-app/.git/refs/heads/master">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/.gitignore">
+      <publishTime>01/03/2021 22:31:29</publishTime>
+    </File>
+    <File Include="client-app/.idea/client-app.iml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/codeStyles/codeStyleConfig.xml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/codeStyles/Project.xml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/inspectionProfiles/Project_Default.xml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/jsLinters/eslint.xml">
+      <publishTime>01/05/2021 17:53:40</publishTime>
+    </File>
+    <File Include="client-app/.idea/modules.xml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/vcs.xml">
+      <publishTime>01/03/2021 22:57:36</publishTime>
+    </File>
+    <File Include="client-app/.idea/workspace.xml">
+      <publishTime>01/15/2021 11:22:15</publishTime>
+    </File>
+    <File Include="client-app/babel.config.js">
+      <publishTime>01/03/2021 22:31:29</publishTime>
+    </File>
+    <File Include="client-app/package-lock.json">
+      <publishTime>01/10/2021 12:43:39</publishTime>
+    </File>
+    <File Include="client-app/package.json">
+      <publishTime>01/10/2021 12:43:39</publishTime>
+    </File>
+    <File Include="client-app/public/favicon.ico">
+      <publishTime>01/03/2021 22:31:29</publishTime>
+    </File>
+    <File Include="client-app/public/img/logo.png">
+      <publishTime>01/10/2021 19:42:01</publishTime>
+    </File>
+    <File Include="client-app/public/index.html">
+      <publishTime>01/10/2021 14:13:55</publishTime>
+    </File>
+    <File Include="client-app/README.md">
+      <publishTime>01/03/2021 22:32:25</publishTime>
+    </File>
+    <File Include="client-app/src/App.vue">
+      <publishTime>01/10/2021 19:56:48</publishTime>
+    </File>
+    <File Include="client-app/src/assets/logo.png">
+      <publishTime>01/03/2021 15:44:48</publishTime>
+    </File>
+    <File Include="client-app/src/components/ContactEdit.vue">
+      <publishTime>01/12/2021 14:49:36</publishTime>
+    </File>
+    <File Include="client-app/src/components/ContactsList.vue">
+      <publishTime>01/13/2021 11:26:43</publishTime>
+    </File>
+    <File Include="client-app/src/components/EventEdit.vue">
+      <publishTime>01/12/2021 14:53:40</publishTime>
+    </File>
+    <File Include="client-app/src/components/EventsList.vue">
+      <publishTime>01/12/2021 15:02:57</publishTime>
+    </File>
+    <File Include="client-app/src/components/HelloWorld.vue">
+      <publishTime>01/03/2021 16:00:09</publishTime>
+    </File>
+    <File Include="client-app/src/components/Login.vue">
+      <publishTime>01/15/2021 10:12:05</publishTime>
+    </File>
+    <File Include="client-app/src/helpers/helpers.js">
+      <publishTime>01/10/2021 17:15:11</publishTime>
+    </File>
+    <File Include="client-app/src/main.js">
+      <publishTime>01/15/2021 11:23:36</publishTime>
+    </File>
+    <File Include="client-app/src/router/index.js">
+      <publishTime>01/12/2021 13:07:04</publishTime>
+    </File>
+    <File Include="client-app/src/store/index.js">
+      <publishTime>01/12/2021 13:04:42</publishTime>
+    </File>
+    <File Include="client-app/src/views/About.vue">
+      <publishTime>01/03/2021 15:44:48</publishTime>
+    </File>
+    <File Include="client-app/src/views/Autorization.vue">
+      <publishTime>01/07/2021 23:32:34</publishTime>
+    </File>
+    <File Include="client-app/src/views/Home.vue">
+      <publishTime>01/13/2021 11:22:21</publishTime>
+    </File>
+    <File Include="client-app/yarn.lock">
+      <publishTime>01/03/2021 22:32:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

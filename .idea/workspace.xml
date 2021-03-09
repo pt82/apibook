@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26bd12c3-6894-4566-8330-d92b33601315" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client-app/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/components/ContactEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/components/EventEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/components/EventsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/helpers/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/views/Autorization.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/ContactsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ContactsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/SexesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/SexesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/UserContactController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/UserContactController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/UsersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/ApplicationContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/ApplicationContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/ApplicationContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ApplicationContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Contact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Contact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApiBook.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyApiBook.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app" beforeDir="false" afterPath="$PROJECT_DIR$/client-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Пользователи - Ярлык.lnk" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client-app" />
+  </component>
+  <component name="ProjectId" id="1mzrez0Oolw6s8soh9jJCWj0ijK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26bd12c3-6894-4566-8330-d92b33601315" name="Default Changelist" comment="" />
+      <created>1610507362890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610507362890</updated>
+      <workItem from="1610507364481" duration="4000" />
+      <workItem from="1615261120380" duration="21000" />
+    </task>
+    <servers />
+  </component>
+</project>

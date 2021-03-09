@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4be9dd5e-fc4a-407c-9b49-02b69be72333" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EventEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EventsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Autorization.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mZ7adA7MOPWJ8p2BlhUcP5uvM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PT\source\repos\MyApiBook\MyApiBook\client-app\public\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be9dd5e-fc4a-407c-9b49-02b69be72333" name="Default Changelist" comment="" />
+      <created>1609689326169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609689326169</updated>
+      <workItem from="1609689328614" duration="1279000" />
+      <workItem from="1609743244281" duration="22885000" />
+      <workItem from="1609908401585" duration="6784000" />
+      <workItem from="1609993562303" duration="17771000" />
+      <workItem from="1610080479265" duration="10930000" />
+      <workItem from="1610173573097" duration="18622000" />
+      <workItem from="1610256635104" duration="21343000" />
+      <workItem from="1610417070229" duration="21631000" />
+      <workItem from="1610507404184" duration="6020000" />
+      <workItem from="1610589875488" duration="1549000" />
+      <workItem from="1610680171094" duration="721000" />
+      <workItem from="1611998789759" duration="538000" />
+      <workItem from="1611999378426" duration="1292000" />
+      <workItem from="1612068062792" duration="5857000" />
+      <workItem from="1612100928247" duration="2337000" />
+      <workItem from="1612184934092" duration="4619000" />
+      <workItem from="1612627251433" duration="486000" />
+      <workItem from="1612672467187" duration="49000" />
+      <workItem from="1612672993237" duration="136000" />
+      <workItem from="1612673409036" duration="28000" />
+      <workItem from="1612673654332" duration="93000" />
+      <workItem from="1612673795839" duration="146000" />
+      <workItem from="1612674510547" duration="195000" />
+      <workItem from="1612676650360" duration="8700000" />
+      <workItem from="1612884542739" duration="1936000" />
+      <workItem from="1612961437423" duration="8363000" />
+      <workItem from="1613047998907" duration="8135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="304" key="#ESLint" timestamp="1612968717616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="304" key="#ESLint/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1610178286845" />
+    <state x="637" y="304" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1612968717616" />
+    <state x="394" y="90" key="#Inspections" timestamp="1609828806718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="90" key="#Inspections/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1609828806718" />
+    <state x="534" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610269035646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1610269035646" />
+    <state x="362" y="73" key="SettingsEditor" timestamp="1612676851029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612676851029" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1609829097706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1609829097706" />
+    <state x="454" y="210" width="672" height="678" key="search.everywhere.popup" timestamp="1612886139384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="210" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612886139384" />
+  </component>
+</project>
